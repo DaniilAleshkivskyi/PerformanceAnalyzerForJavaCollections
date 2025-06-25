@@ -1,5 +1,9 @@
 # 📊 Performance Analyzer for Java Collections
-
+⠀
+## 🧪 Try It Online
+⠀
+🚀 [Click here to run the project in JDoodle](https://www.jdoodle.com/ga/GldE87XXbS0i6tJ9%2BuD3RA%3D%3D)
+<br></br>
 ## 📘 Description
 
 This project is a command-line based tool for **benchmarking the performance of various Java Collection types** using different data and test types. It was created as part of an academic assignment, following strict guidelines: enums for configuration, interfaces for structure, DRY principle(tried to make it), and clean modular architecture.
@@ -80,6 +84,7 @@ You can run the program directly with **five arguments**, in **any order**:
 java PerformanceAnalyzerForJavaCollections <CollectionType> <DataType> <Number> <TestType> <OutputFormat>
 ```
 <h2>Final</h2>
+
 <p align="center">
   <strong>🙏 THANK YOU FOR READING THIS!</strong><br><br>
   <img src="https://media1.giphy.com/media/ghCH2X0XYC9LTDf1KG/giphy.gif" alt="genius gif">
