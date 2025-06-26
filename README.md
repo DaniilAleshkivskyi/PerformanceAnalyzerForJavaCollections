@@ -98,5 +98,6 @@ Insertion;Removing
 </p>
 
 📚 This project was created for a university assignment and reflects the course’s practical requirements for Java development such as **ENUMS, Collections, Streams, Generics, Interfaces**
+PS it was required that the program be in one file:>
 
 
