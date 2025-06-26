@@ -78,11 +78,18 @@ Please enter which CollectionType you want to perform on:
 ```
 
 ### ▶️ 2. Terminal Mode
-You can run the program directly with **five arguments**, in **any order**:
+You can run the program directly with **five arguments**, in **any order**, for instance:
 
 ```bash
-java PerformanceAnalyzerForJavaCollections <CollectionType> <DataType> <Number> <TestType> <OutputFormat>
+java PerformanceAnalyzerForJavaCollections CollectionType DataType Number TestType OutputFormat
 ```
+
+**📄 Example CSV Output**
+```csv
+Insertion;Removing
+0.001000000 sec;0.002000000 sec
+```
+
 <h2>Final</h2>
 
 <p align="center">
