@@ -416,9 +416,9 @@ class TestResult{
                     sb.append(String.format("Index-based access\n%.9f sec", list.get(0)));
                 }
                 case IRFrequency -> {
-                    sb.append("Insertion,Removing \n");
-                    sb.append((String.format("%.9f sec,", list.get(0))));
-                    sb.append((String.format("%.9f sec", list.get(1))));
+                    sb.append("Insertion;Removing\n");
+                    sb.append(String.format("%.9f sec;", list.get(0)));
+                    sb.append(String.format("%.9f sec\n", list.get(1)));
                 }
                 case Searching -> {
                     sb.append(String.format("Search for existing element\n%.9f sec", list.get(0)));
