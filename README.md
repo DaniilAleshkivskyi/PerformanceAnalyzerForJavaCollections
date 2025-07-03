@@ -27,7 +27,7 @@ The application allows users to:
 ### ✅ Data Types
 - `Integer`
 - `Double`
-- `Person` — with `String` name and `int` year of birth
+- `Person` — with `String` name,surname and `int` year of birth
 - `MyColor` — with RGB fields and their sum
 - `Subject` — with name and ID
 - `Game` — with name and genre
